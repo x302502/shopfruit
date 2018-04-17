@@ -1,0 +1,16 @@
+.background-body{
+  width: 100%;
+  background-image: url("animatedfruit.gif");
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+.content-login {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 780px;
+  width: 100%;
+}
+form{
+
+  border: 1px solid white;
+  background-color: none;
+}
